@@ -1,0 +1,6 @@
+streamlit
+speech_recognition
+whisper
+numpy
+torch
+streamlit-js-eval
